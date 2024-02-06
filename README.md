@@ -8,3 +8,5 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 # Tutoriales
 ## TensorFlow Lite
 [Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) <br>
+## Videos
+[Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
