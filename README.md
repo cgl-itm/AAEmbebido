@@ -23,3 +23,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 
 # Interesting Projects
 [TremorDuino - Parkinson](https://hackaday.io/project/191145-tremor-duino)
+
+# Librerias Low-Code
+[shapash](https://github.com/MAIF/shapash) <br>
+[PyCaret](https://github.com/pycaret/pycaret)
