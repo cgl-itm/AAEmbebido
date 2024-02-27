@@ -6,6 +6,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      01       |               [ Introduction to machine learning](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/00_Introduccion.pdf)               | [Regression](https://colab.research.google.com/github/tensorflow/docs-l10n/blob/master/site/es-419/tutorials/keras/regression.ipynb) [Classification](https://colab.research.google.com/github/skorch-dev/skorch/blob/master/notebooks/MNIST.ipynb)            | 
 |      02       |               [Regression, Classification and Ovefitting](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/01_RegressionClassificationValidation.pdf)               | [Regression - Overfitting](https://github.com/cgl-itm/AAEmbebido/blob/main/Notebooks/01_Supervised_Learning_Regression_and_OverFitting.ipynb)            |  
 |      03       |               [Comparison of Models and Deployment Tools](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/02_ComparisonModels_DeploymentTools.pdf)               | [Deployment Example - EveryWhereML](https://github.com/cgl-itm/AAEmbebido/blob/main/Notebooks/EveryWhereML_Example_Iris.ipynb)            | 
+|      04       |    Presentacion proyecto - Examen       |  | 
 
 # Edge Impulse
 [Edge Impulse site](https://edgeimpulse.com/) <br>
