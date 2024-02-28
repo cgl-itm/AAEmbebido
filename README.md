@@ -14,7 +14,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 [eloquent Edge Impulse](https://github.com/eloquentarduino/eloquent_edgeimpulse/tree/main)<br>
 
 # Code converters
-[Eloquent TinyML](https://github.com/eloquentarduino/EloquentTinyML) <br>
+[Eloquent TinyML](https://github.com/eloquentarduino/EloquentTinyML) Libreria donde se pueden exportar modelos de TensforFlow a Microcontroladores ESP32 o Cortex M. [Ejemplo Iris usando EveryWhereML y Eloquent TinyML](https://colab.research.google.com/gist/eloquentarduino/e678a2bd3b21b219283b3b36b9965f5d/train-tensorflow-model-for-arduino.ipynb) <br>
 [EMLearn](https://github.com/emlearn/emlearn-micropython/tree/master) <br>
 
 # TensorFlow Links
