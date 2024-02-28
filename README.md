@@ -18,8 +18,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-  
-[EMLearn](https://github.com/emlearn/emlearn-micropython/tree/master) <br>
+[EMLearn](https://github.com/emlearn/emlearn) - Libreria para exportar modelos de Scikit-Learn (Regresión y Clasificación) a codigo en C++, tambien se requiere instalar la libreria en Arduino IDE. <br>
 
 # TensorFlow Links
 [TensorFlow Lite microcontrollers](https://www.tensorflow.org/lite/microcontrollers) <br>
