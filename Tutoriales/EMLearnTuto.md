@@ -1,4 +1,5 @@
 # Instalación de librería en Python
+Debes tener instalado Python y su gestor de paquetes PIP. 
 Ejecutar la siguiente línea en una ventana de comandos <br>
 ``` pip install emlearn ```
 # Instalación de libreria en Arduino IDE
