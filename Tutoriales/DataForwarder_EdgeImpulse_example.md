@@ -7,6 +7,12 @@ Requerimientos:
 * Instalar Python 3.0 en el PC o Laptop.
 * Instalar NodeJS v16 o superior.
 
+Una vez cumplido con los requesitos, instalamos Edge Impulse CLI usando
+```
+npm install -g edge-impulse-cli --force
+```
+
+
 ```
 #include <Wire.h>
 
