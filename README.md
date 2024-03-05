@@ -11,7 +11,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 
 # Edge Impulse
 [Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.<br>
-[Blog para configurar Edge Impulse CLI](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation) Herramiento que nos permite enviar datos desde un dispositivo local a la plataforma Edge Impulse. <br>
+[Blog para configurar Edge Impulse CLI](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation) Herramienta que nos permite enviar datos desde un dispositivo local a la plataforma Edge Impulse. <br>
 [eloquent Edge Impulse](https://github.com/eloquentarduino/eloquent_edgeimpulse/tree/main)<br>
 
 # Code converters
