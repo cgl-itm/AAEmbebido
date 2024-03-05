@@ -99,12 +99,14 @@ Luego nos pregunta en que puerto esta conectado el dispositivo, se puede selecci
 [WS ] Connected to wss://remote-mgmt.edgeimpulse.com
 ```
 Posteriormente nos permite conectarnos a un proyecto de Edge Impulse, se puede seleccionar con las flechas del teclado:
+```
 ? To which project do you want to connect this device?
 Proyecto 1
 Proyecto 2
 ...
 Proyecto n
 ```
+
 A continuacion detecta la frecuencia de muestreo de los datos, y nos pide ponerle un nombre a las variables de los acelerometros.
 ```
 [SER] Detecting data frequency...
