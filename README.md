@@ -10,7 +10,8 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      05       |    [Edge Impulse - Introduction](https://www.youtube.com/watch?v=th2St_Qq2Co)     | Otras fuentes: [Introduction](https://tinyml.seas.harvard.edu/SciTinyML-22/assets/slides/Day2_01_Introduction-to-Edge-Impulse.pdf), [Intro 2](https://tinyml.seas.harvard.edu/EdgeMLUP-23/assets/slides/Future_of_EmbeddedML_ICTP_Workshop%20_Trieste_2023.pdf), [Video](https://www.coursera.org/lecture/introduction-to-embedded-machine-learning/getting-started-with-edge-impulse-Ahsv5) | 
 
 # Edge Impulse
-[Edge Impulse site](https://edgeimpulse.com/) <br>
+[Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.<br>
+[Blog para configurar Edge Impulse CLI](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation) Herramiento que nos permite enviar datos desde un dispositivo local a la plataforma Edge Impulse. <br>
 [eloquent Edge Impulse](https://github.com/eloquentarduino/eloquent_edgeimpulse/tree/main)<br>
 
 # Code converters
