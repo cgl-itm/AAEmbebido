@@ -14,65 +14,9 @@ npm install -g edge-impulse-cli --force
 Recordar crear un proyecto en Edge Impulse, en el cual se guardaran las muestras del dispositivo.
 
 ## Configuracion de MicroControlador
-A partir de Arduino IDE compilamos y enviamos el siguiente codigo al microcontrolador.
-```
-#include <Wire.h>
-
-#include "SparkFun_LIS2DH12.h" //Click here to get the library: http://librarymanager/All#SparkFun_LIS2DH12
-SPARKFUN_LIS2DH12 accel;       //Create instance
-
-#define FREQUENCY_HZ        50
-#define INTERVAL_MS         (1000 / (FREQUENCY_HZ + 1))
-
-static unsigned long last_interval = 0;
-
-void setup() {
-    Serial.begin(115200);
-    delay(2000);
-    Serial.println("Accelerometer reading in Serial Console to be forwarded to Edge Impulse");
-
-    Serial.print("FREQUENCY_HZ: ");
-    Serial.println(FREQUENCY_HZ);
-
-    Serial.print("INTERVAL_MS: ");
-    Serial.println(INTERVAL_MS);
-
-    Wire.begin();
-
-    if (accel.begin() == false)
-    {
-      Serial.println("Accelerometer not detected. Check address jumper and wiring. Freezing...");
-      while (1);
-    }else{
-      accel.setScale(LIS2DH12_2g);
-      Serial.print("Accelerometer scale: ");
-      Serial.println(accel.getScale());
-
-      accel.setMode(LIS2DH12_LP_8bit);
-      Serial.print("Accelerometer mode: ");
-      Serial.println(accel.getMode());
-
-      accel.setDataRate(LIS2DH12_ODR_100Hz);
-      Serial.print("Accelerometer data rate: ");
-      Serial.println(accel.getDataRate());
-    }
-    
-}
-
-void loop() {
-    
-    if (millis() > last_interval + INTERVAL_MS) {
-        
-        last_interval = millis();
-  
-        Serial.print(accel.getX());
-        Serial.print('\t');
-        Serial.print(accel.getY());
-        Serial.print('\t');
-        Serial.println(accel.getZ());   
-    }
-}
-```
+La configuracion de cada microcontrolador depende de la empresa que lo diseño, en esta asignatura disponemos de
+* Arduino nano 33 BLE Sense
+* SparkFun MicroMod: con CPU Teensy y ESP32.
 
 ## Uso de DataForwarder de Edge Impulse
 La documentacion oficial del [DataForwarder](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-data-forwarder) esta disponible en la pagina de Edge Impulse. <br>
