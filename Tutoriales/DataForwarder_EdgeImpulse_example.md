@@ -119,4 +119,13 @@ Finalmente, nos solicita indicar el nombre del Dispositivo para asociarlo al pro
 [WS ] Device "MicoMod" is now connected to project "Accelerometer_Classification". To connect to another project, run `edge-impulse-data-forwarder --clean`.
 [WS ] Go to https://studio.edgeimpulse.com/studio/271892/acquisition/training to build your machine learning model!
 ```
-En la pagina de Edge Impulse, accedemos al proyecto asociado al microcontrolador, y en la seccion de Data Acquisition podemos recibir muestras para entrenamiento o test.
+En la pagina de Edge Impulse, 
+
+## Edge Impulse Platform
+Una vez el dispositivo este conectado usando el DataForwarder, entonces vamos a la pagina de Edge Impulse, accedemos al proyecto asociado al microcontrolador, y en seccion de Devices podemos ver los dispositivos conectados al proyecto
+
+![Devices](micromod_EI_Devices.png)
+
+En la seccion de Data Acquisition podemos recibir muestras para entrenamiento o test.
+
+![Data Acquisition](micromod_EI_DataAcquisition.png)
