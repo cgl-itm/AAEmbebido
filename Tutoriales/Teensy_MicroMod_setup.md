@@ -8,9 +8,14 @@ File > Preferences. En "Additional boards manager URLs", copiar el siguiente lin
 ```
 https://www.pjrc.com/teensy/package_teensy_index.json
 ```
-![Teensy Library instalation](https://www.pjrc.com/teensy/arduino20prefs.png)
+![Arduino Preferences](https://www.pjrc.com/teensy/arduino20prefs.png)
 
+Posteriormente, en el gestor de librerias de Arduino IDE buscar la libreria "teensy" es instalarla 
 
+![Teensy Library instalation](https://www.pjrc.com/teensy/arduino20boardsmanager.png)
+
+## Codigo para accelerometros
+Debemos descargar la libreria con los controladores del sensor de acelerometros, buscar en las librerias de Ardino IDE "LIS2DH12" e instalar "SparkFun LIS2DH12 Arduino Library".
 A partir de Arduino IDE compilamos y enviamos el siguiente codigo al microcontrolador.
 ```
 #include <Wire.h>
