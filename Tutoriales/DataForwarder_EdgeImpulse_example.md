@@ -16,7 +16,8 @@ Recordar crear un proyecto en Edge Impulse, en el cual se guardaran las muestras
 ## Configuracion de MicroControlador
 La configuracion de cada microcontrolador depende de la empresa que lo diseño, en esta asignatura disponemos de
 * [Arduino nano 33 BLE Sense](https://docs.edgeimpulse.com/docs/edge-ai-hardware/mcu/arduino-nano-33-ble-sense).
-* SparkFun MicroMod: con CPU [Teensy](https://www.pjrc.com/teensy/tutorial.html) y [ESP32](https://github.com/sparkfun/MicroMod_ESP32_Processor).
+* [Arduino nano 33 BLE Sense rev2](https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/imu-accelerometer/).
+* SparkFun MicroMod: con CPU [Teensy](https://www.pjrc.com/teensy/tutorial.html) y ESP32 [Link 1](https://github.com/sparkfun/MicroMod_ESP32_Processor) y [Link 2](https://media.digikey.com/pdf/Data%20Sheets/Sparkfun%20PDFs/MicroMod_ESP32_Processor_Board_Hookup_Guide_Web.pdf).
 
 ## Uso de DataForwarder de Edge Impulse
 La documentacion oficial del [DataForwarder](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-data-forwarder) esta disponible en la pagina de Edge Impulse. <br>
