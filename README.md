@@ -8,7 +8,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      03       |               [Comparison of Models and Deployment Tools](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/02_ComparisonModels_DeploymentTools.pdf)               | [Deployment Example - EveryWhereML](https://github.com/cgl-itm/AAEmbebido/blob/main/Notebooks/EveryWhereML_Example_Iris.ipynb)            | 
 |      04       |    Presentacion proyecto - Examen       |  | 
 |      05       |    [Edge Impulse - Introduction](https://www.youtube.com/watch?v=th2St_Qq2Co)     | Otras fuentes: [Introduction](https://tinyml.seas.harvard.edu/SciTinyML-22/assets/slides/Day2_01_Introduction-to-Edge-Impulse.pdf), [Intro 2](https://tinyml.seas.harvard.edu/EdgeMLUP-23/assets/slides/Future_of_EmbeddedML_ICTP_Workshop%20_Trieste_2023.pdf), [Video](https://www.coursera.org/lecture/introduction-to-embedded-machine-learning/getting-started-with-edge-impulse-Ahsv5) | 
-|      06       |   Feature Extraction     |  | 
+|      06       |   [Feature Extraction](https://www.youtube.com/watch?v=TeXwCsYCqbg)     |  | 
 
 # Edge Impulse
 [Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.<br>
@@ -30,6 +30,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 ## TensorFlow Lite
 [TensorFlow Lite para microcontroladores](https://www.tensorflow.org/lite/microcontrollers) <br>
 [Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) <br>
+[End to End Audio classification - Recomendado](https://blog.tensorflow.org/2021/09/TinyML-Audio-for-everyone.html)
 ## Videos
 [Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
 
