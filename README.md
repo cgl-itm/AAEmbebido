@@ -30,7 +30,9 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 ## TensorFlow Lite
 [TensorFlow Lite para microcontroladores](https://www.tensorflow.org/lite/microcontrollers) <br>
 [Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) <br>
-[End to End Audio classification - Recomendado](https://blog.tensorflow.org/2021/09/TinyML-Audio-for-everyone.html)
+[End to End Audio classification - Recomendado](https://blog.tensorflow.org/2021/09/TinyML-Audio-for-everyone.html) <br>
+[SparkFun MicroMod with nRF52840 - Accelerometers -Recomendado](https://github.com/edgeimpulse/example-SparkFun-MicroMod-nRF52840)
+
 ## Videos
 [Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
 
