@@ -10,8 +10,9 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      05       |    [Edge Impulse - Introduction](https://www.youtube.com/watch?v=th2St_Qq2Co)     | Otras fuentes: [Introduction](https://tinyml.seas.harvard.edu/SciTinyML-22/assets/slides/Day2_01_Introduction-to-Edge-Impulse.pdf), [Intro 2](https://tinyml.seas.harvard.edu/EdgeMLUP-23/assets/slides/Future_of_EmbeddedML_ICTP_Workshop%20_Trieste_2023.pdf), [Video](https://www.coursera.org/lecture/introduction-to-embedded-machine-learning/getting-started-with-edge-impulse-Ahsv5) | 
 |      06       |   [Feature Extraction](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/04_FeatureExtraction.pdf) y [video](https://www.youtube.com/watch?v=TeXwCsYCqbg)     |  | 
 |      07       |   [Neural Network - Classification](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/05_NeuralNetwork_SensorFusion.pdf) |  | 
-|      08       |    Presentación proyecto y [Anomaly Detection](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/06_AnomalyDetection.pdf) y [video](https://www.youtube.com/watch?v=TeXwCsYCqbg)     | Tutorial: [Enabling advanced anomaly detection for edge devices with Edge Impulse](https://www.youtube.com/watch?v=se9ZDBVKN1M) | 
+|      08       |    Presentación proyecto 2 y [Anomaly Detection](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/06_AnomalyDetection.pdf) y [video](https://www.youtube.com/watch?v=TeXwCsYCqbg)     | Tutorial: [Enabling advanced anomaly detection for edge devices with Edge Impulse](https://www.youtube.com/watch?v=se9ZDBVKN1M) | 
 |      09       |   [Computer Vision](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/07_Imagenes_RedesConv.pdf.pdf)   | Tutorial: https://www.tensorflow.org/tutorials/images/cnn?hl=es-419  | 
+|      10       |    Presentación proyecto 3 |   | 
 
 # Edge Impulse
 [Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.<br>
