@@ -40,6 +40,9 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 ## Videos
 [Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
 
+## Anomaly Detection
+[Edge Impulse - Anomaly Detection K-means](https://edge-impulse.gitbook.io/docs/edge-impulse-studio/learning-blocks/anomaly-detection) <br>
+
 # Interesting Projects
 [TremorDuino - Parkinson](https://hackaday.io/project/191145-tremor-duino)
 
