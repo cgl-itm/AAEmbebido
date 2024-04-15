@@ -11,3 +11,6 @@
 
 ## Enviar datos a Edge Impulse - DataForwarder
 * Ejemplo usando MicroMod con Teensy
+
+# Raspberry y Computer Vision
+* Configuracion para Despliegue de Raspberry
