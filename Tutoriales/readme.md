@@ -13,4 +13,4 @@
 * Ejemplo usando MicroMod con Teensy
 
 # Raspberry y Computer Vision
-* Configuracion para Despliegue de Raspberry
+* [Configuracion para Despliegue de Raspberry](https://github.com/cgl-itm/AAEmbebido/blob/main/Tutoriales/Despliegue_DNN_Raspberry.md)
