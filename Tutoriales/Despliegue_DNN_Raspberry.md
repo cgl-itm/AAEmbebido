@@ -4,12 +4,10 @@ Los pasos iniciales para configurar la board Raspberry Pi estan descritos en htt
 * La version del sistema operativo debe ser máximo la versión Bullseye (no instalar Bookworm).
 * Se pueden instalar los librerias necesarias para conectar con Edge Impulse (opcional), asi:
 ````
-```
 sudo apt update
 curl -sL https://deb.nodesource.com/setup_20.x | sudo bash -
 sudo apt install -y gcc g++ make build-essential nodejs sox gstreamer1.0-tools gstreamer1.0-plugins-good gstreamer1.0-plugins-base gstreamer1.0-plugins-base-apps
 sudo npm install edge-impulse-linux -g --unsafe-perm
-```
 ````
 
 
