@@ -9,7 +9,7 @@ curl -sL https://deb.nodesource.com/setup_20.x | sudo bash -
 sudo apt install -y gcc g++ make build-essential nodejs sox gstreamer1.0-tools gstreamer1.0-plugins-good gstreamer1.0-plugins-base gstreamer1.0-plugins-base-apps
 sudo npm install edge-impulse-linux -g --unsafe-perm
 ````
-
+* Para el despliegue en Raspberry, usaremos Python y Linux, emplearemos la informacion suministrada en: https://edge-impulse.gitbook.io/docs/tools/edge-impulse-for-linux/linux-python-sdk.
 
 # Proyectos de clasificacion de imagenes
 1. Medium: https://medium.com/@VK_Venkatkumar/real-time-image-classification-using-edge-impulse-on-raspberry-pi-tinyml-3a52c4ba7bab.
