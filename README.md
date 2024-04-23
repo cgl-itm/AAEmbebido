@@ -40,6 +40,12 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 ## Videos
 [Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
 
+## Image Classification
+[Tinyml made easy image classification](https://www.hackster.io/mjrobot/tinyml-made-easy-image-classification-w-xiao-esp32s3-sense-cb42ae#toc-optional-use-of-esp-nn-acceleration--update-19-may-2013-10) <br>
+[Object Classification with Edge Impulse Using Raspberry Pi 4 and Camera Module](https://www.cytron.io/tutorial/edge-impulse-with-raspberry-pi-4) <br>
+[Image Classification with Edge Impulse](https://docs.arduino.cc/tutorials/nicla-vision/image-classification/) <br>
+[Real time Image Classification using Edge Impulse on Raspberry Pi (TinyML)](https://medium.com/@VK_Venkatkumar/real-time-image-classification-using-edge-impulse-on-raspberry-pi-tinyml-3a52c4ba7bab) <br>
+
 ## Anomaly Detection
 [Edge Impulse - Anomaly Detection K-means](https://edge-impulse.gitbook.io/docs/edge-impulse-studio/learning-blocks/anomaly-detection) <br>
 
