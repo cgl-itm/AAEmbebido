@@ -52,7 +52,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 ## Object Detection
 * [Datacamp - Object Detection guide](https://www.datacamp.com/tutorial/object-detection-guide)
 * [Edge Impulse - Object Detection](https://edge-impulse.gitbook.io/docs/tutorials/end-to-end-tutorials/object-detection)
-* Videos: [Jetson Nano demonstration](https://www.youtube.com/watch?v=K4EziYNtRPw), [AI-Assisted labeling](https://www.youtube.com/watch?v=wnHrpTbCUYc), [Build your own Object Detection system](https://www.youtube.com/watch?v=dY3OSiJyne0).
+* Videos: [Jetson Nano demonstration](https://www.youtube.com/watch?v=K4EziYNtRPw), [AI-Assisted labeling](https://www.youtube.com/watch?v=wnHrpTbCUYc), [Build your own Object Detection system](https://www.youtube.com/watch?v=dY3OSiJyne0), [FOMO](https://www.youtube.com/watch?v=iazSrguEL7g).
 
 # Interesting Projects
 [TremorDuino - Parkinson](https://hackaday.io/project/191145-tremor-duino) <br>
