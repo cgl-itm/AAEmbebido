@@ -2,7 +2,7 @@
 ## Instalacion de paquetes
 Se requieren los siguientes paquetes
 * [OpenCV](https://raspberrypi-guide.github.io/programming/install-opencv): Paquete para cargar, modificar y transformar imágenes y videos (Computer Vision).
-* [PyCamera](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/PiCamera2-User-Guide/): librería para enlazar las cámaras de Raspberry a Python. Usar el siguiente comando:
+* [PiCamera](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/PiCamera2-User-Guide/): librería para enlazar las cámaras de Raspberry a Python. Usar el siguiente comando:
   ```
   sudo apt install python3-picamera2
   ```
