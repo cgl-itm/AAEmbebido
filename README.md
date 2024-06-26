@@ -27,27 +27,27 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 [EMLearn](https://github.com/emlearn/emlearn) - Libreria para exportar modelos de Scikit-Learn (Regresión y Clasificación) a codigo en C++, tambien se requiere instalar la libreria en Arduino IDE. <br>
 
 # TensorFlow Links
-[TensorFlow Lite microcontrollers](https://www.tensorflow.org/lite/microcontrollers) <br>
+* [TensorFlow Lite microcontrollers](https://www.tensorflow.org/lite/microcontrollers) <br>
 
 
 # Tutoriales
 ## TensorFlow Lite
-[TensorFlow Lite para microcontroladores](https://www.tensorflow.org/lite/microcontrollers) <br>
-[Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) <br>
-[End to End Audio classification - Recomendado](https://blog.tensorflow.org/2021/09/TinyML-Audio-for-everyone.html) <br>
-[SparkFun MicroMod with nRF52840 - Accelerometers -Recomendado](https://github.com/edgeimpulse/example-SparkFun-MicroMod-nRF52840)
+* [TensorFlow Lite para microcontroladores](https://www.tensorflow.org/lite/microcontrollers) <br>
+* [Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) <br>
+* [End to End Audio classification - Recomendado](https://blog.tensorflow.org/2021/09/TinyML-Audio-for-everyone.html) <br>
+* [SparkFun MicroMod with nRF52840 - Accelerometers -Recomendado](https://github.com/edgeimpulse/example-SparkFun-MicroMod-nRF52840)
 
 ## Videos
-[Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
+* [Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
 
 ## Anomaly Detection
-[Edge Impulse - Anomaly Detection K-means](https://edge-impulse.gitbook.io/docs/edge-impulse-studio/learning-blocks/anomaly-detection) <br>
+* [Edge Impulse - Anomaly Detection K-means](https://edge-impulse.gitbook.io/docs/edge-impulse-studio/learning-blocks/anomaly-detection) <br>
 
 ## Image Classification
-[Tinyml made easy image classification](https://www.hackster.io/mjrobot/tinyml-made-easy-image-classification-w-xiao-esp32s3-sense-cb42ae#toc-optional-use-of-esp-nn-acceleration--update-19-may-2013-10) <br>
-[Object Classification with Edge Impulse Using Raspberry Pi 4 and Camera Module](https://www.cytron.io/tutorial/edge-impulse-with-raspberry-pi-4) <br>
-[Image Classification with Edge Impulse](https://docs.arduino.cc/tutorials/nicla-vision/image-classification/) <br>
-[Real time Image Classification using Edge Impulse on Raspberry Pi (TinyML)](https://medium.com/@VK_Venkatkumar/real-time-image-classification-using-edge-impulse-on-raspberry-pi-tinyml-3a52c4ba7bab) <br>
+* [Tinyml made easy image classification](https://www.hackster.io/mjrobot/tinyml-made-easy-image-classification-w-xiao-esp32s3-sense-cb42ae#toc-optional-use-of-esp-nn-acceleration--update-19-may-2013-10) 
+* [Object Classification with Edge Impulse Using Raspberry Pi 4 and Camera Module](https://www.cytron.io/tutorial/edge-impulse-with-raspberry-pi-4) 
+* [Image Classification with Edge Impulse](https://docs.arduino.cc/tutorials/nicla-vision/image-classification/) 
+* [Real time Image Classification using Edge Impulse on Raspberry Pi (TinyML)](https://medium.com/@VK_Venkatkumar/real-time-image-classification-using-edge-impulse-on-raspberry-pi-tinyml-3a52c4ba7bab) 
 
 ## Object Detection
 * [Datacamp - Object Detection guide](https://www.datacamp.com/tutorial/object-detection-guide)
