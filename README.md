@@ -31,6 +31,10 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 
 
 # Tutoriales
+## TinyML
+* [Everything About TinyML – Basics, Courses, Projects & More! by Seeed Studio](https://www.seeedstudio.com/blog/2021/06/14/everything-about-tinyml-basics-courses-projects-more/)
+* [No-code Programming to Get Started with TinyML by Seeed](https://github.com/TinkerGen/No-code-Programming-to-Get-Started-with-TinyML)
+  
 ## TensorFlow Lite
 * [TensorFlow Lite para microcontroladores](https://www.tensorflow.org/lite/microcontrollers) <br>
 * [Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) <br>
@@ -54,10 +58,23 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 * [Edge Impulse - Object Detection](https://edge-impulse.gitbook.io/docs/tutorials/end-to-end-tutorials/object-detection)
 * Videos: [Jetson Nano demonstration](https://www.youtube.com/watch?v=K4EziYNtRPw), [AI-Assisted labeling](https://www.youtube.com/watch?v=wnHrpTbCUYc), [Build your own Object Detection system](https://www.youtube.com/watch?v=dY3OSiJyne0), [FOMO](https://www.youtube.com/watch?v=iazSrguEL7g), [Simple ESP32-CAM Object Detection](https://www.youtube.com/watch?v=HDRvZ_BYd08).
 
+## Recursos
+### Libros
+* TinyML Book, TinyML cookbook
+* 
+
+### Cursos en linea
+* [Coursera - Introduction to Embedded Machine Learning by Shawn Hymel & Alexander Fred-Ojala](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
+* [Coursera - Computer Vision with Embedded Machine Learning by Shawn Hymel](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
+* [HarvardX's Tiny Machine Learning (TinyML) at edX](https://www.edx.org/learn/tinyml)
+* [TinyMLedu, The Tiny Machine Learning Open Education Initiative](http://tinyml.seas.harvard.edu/)
+
+  
 # Interesting Projects
-[TremorDuino - Parkinson](https://hackaday.io/project/191145-tremor-duino) <br>
-[Glass-Breaking Detector - Edge Impulse](https://www.youtube.com/watch?v=x65tRhBIWwY)
+* [TremorDuino - Parkinson](https://hackaday.io/project/191145-tremor-duino) 
+* [Glass-Breaking Detector - Edge Impulse](https://www.youtube.com/watch?v=x65tRhBIWwY)
 
 # Librerias Low-Code
-[shapash](https://github.com/MAIF/shapash) <br>
-[PyCaret](https://github.com/pycaret/pycaret)
+* [shapash](https://github.com/MAIF/shapash) <br>
+* [PyCaret](https://github.com/pycaret/pycaret)
+
