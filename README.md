@@ -59,9 +59,8 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 * Videos: [Jetson Nano demonstration](https://www.youtube.com/watch?v=K4EziYNtRPw), [AI-Assisted labeling](https://www.youtube.com/watch?v=wnHrpTbCUYc), [Build your own Object Detection system](https://www.youtube.com/watch?v=dY3OSiJyne0), [FOMO](https://www.youtube.com/watch?v=iazSrguEL7g), [Simple ESP32-CAM Object Detection](https://www.youtube.com/watch?v=HDRvZ_BYd08).
 
 ## Recursos
-### Libros
-* TinyML Book, TinyML cookbook
-* 
+### Repositorios
+* https://github.com/gigwegbe/tinyml-papers-and-projects
 
 ### Cursos en linea
 * [Coursera - Introduction to Embedded Machine Learning by Shawn Hymel & Alexander Fred-Ojala](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
