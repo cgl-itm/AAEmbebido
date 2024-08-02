@@ -10,7 +10,7 @@ https://www.pjrc.com/teensy/package_teensy_index.json
 ```
 ![Arduino Preferences](https://www.pjrc.com/teensy/arduino20prefs.png)
 
-Posteriormente, en el gestor de tarjetas (Board manager) de Arduino IDE buscar la libreria "teensy" para instalarla 
+Posteriormente, en el gestor de tarjetas (Board manager) de Arduino IDE buscar la libreria "teensy" para instalarla. Instalar la ultima version disponible.
 
 ![Teensy Library instalation](https://www.pjrc.com/teensy/arduino20boardsmanager.png)
 
