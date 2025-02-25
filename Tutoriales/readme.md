@@ -1,8 +1,8 @@
 # Tutoriales TinyML
 
 ## Librerias para convertir codigo
-### EMLearm
-### Eloquent TinyML
+* [EMLearm](https://github.com/cgl-itm/AAEmbebido/blob/main/Tutoriales/EMLearnTuto.md)
+* Eloquent TinyML
 
 ## Arduino IDE, configuración y Librerias
 * [MicroMod Teensy](https://github.com/cgl-itm/AAEmbebido/blob/main/Tutoriales/Teensy_MicroMod_setup.md)
