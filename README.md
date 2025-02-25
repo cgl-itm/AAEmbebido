@@ -14,17 +14,18 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      09       |   [Computer Vision](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/07_Imagenes_RedesConv.pdf.pdf)   | Tutorial: https://www.tensorflow.org/tutorials/images/cnn?hl=es-419  | 
 |      10       |    Presentación proyecto 3 |   | 
 
+# Code converters
+* [Eloquent TinyML](https://github.com/eloquentarduino/EloquentTinyML) Libreria donde se pueden exportar modelos de TensforFlow a Microcontroladores ESP32 o Cortex M. Ejemplo Iris usando EveryWhereML y Eloquent TinyML - [Link](https://eloquentarduino.com/posts/tensorflow-lite-tinyml-esp32) y Notebook <a target="_blank" href="https://colab.research.google.com/gist/eloquentarduino/e678a2bd3b21b219283b3b36b9965f5d/train-tensorflow-model-for-arduino.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+* [EMLearn](https://github.com/emlearn/emlearn) - Libreria para exportar modelos de Scikit-Learn (Regresión y Clasificación) a codigo en C++, tambien se requiere instalar la libreria en Arduino IDE.
+* Deprecated: [microMLGen](https://github.com/eloquentarduino/micromlgen) ([blog](https://medium.com/@thommaskevin/tinyml-random-forest-classifier-and-regressor-b351aa0980e8)), [Clara](https://github.com/asergiobranco/clara).
+
 # Edge Impulse
 [Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.<br>
 [Blog para configurar Edge Impulse CLI](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation) Herramienta que nos permite enviar datos desde un dispositivo local a la plataforma Edge Impulse. <br>
 [eloquent Edge Impulse](https://github.com/eloquentarduino/eloquent_edgeimpulse/tree/main)<br>
 
-# Code converters
-[Eloquent TinyML](https://github.com/eloquentarduino/EloquentTinyML) Libreria donde se pueden exportar modelos de TensforFlow a Microcontroladores ESP32 o Cortex M. Ejemplo Iris usando EveryWhereML y Eloquent TinyML - [Link](https://eloquentarduino.com/posts/tensorflow-lite-tinyml-esp32) y Notebook <a target="_blank" href="https://colab.research.google.com/gist/eloquentarduino/e678a2bd3b21b219283b3b36b9965f5d/train-tensorflow-model-for-arduino.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-[EMLearn](https://github.com/emlearn/emlearn) - Libreria para exportar modelos de Scikit-Learn (Regresión y Clasificación) a codigo en C++, tambien se requiere instalar la libreria en Arduino IDE. <br>
 
 # TensorFlow Links
 * [TensorFlow Lite microcontrollers](https://www.tensorflow.org/lite/microcontrollers) <br>
