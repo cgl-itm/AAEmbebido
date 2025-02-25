@@ -19,7 +19,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a>
 
 * [EMLearn](https://github.com/emlearn/emlearn) - Libreria para exportar modelos de Scikit-Learn (Regresión y Clasificación) a codigo en C++, tambien se requiere instalar la libreria en Arduino IDE.
-* Deprecated: [microMLGen](https://github.com/eloquentarduino/micromlgen) ([blog](https://medium.com/@thommaskevin/tinyml-random-forest-classifier-and-regressor-b351aa0980e8)), [Clara](https://github.com/asergiobranco/clara).
+* Deprecated: [microMLGen](https://github.com/eloquentarduino/micromlgen) ([blog](https://medium.com/@thommaskevin/tinyml-random-forest-classifier-and-regressor-b351aa0980e8)), [SKLearn-Porter](https://github.com/nok/sklearn-porter), [Clara](https://github.com/asergiobranco/clara).
 
 # Edge Impulse
 [Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.<br>
