@@ -5,9 +5,9 @@
 ### Eloquent TinyML
 
 ## Arduino IDE, configuración y Librerias
-* MicroMod Teensy:
-* MicroMod ESP32:
-* Arduino nano 33 BLE Sense:
+* [MicroMod Teensy](https://github.com/cgl-itm/AAEmbebido/blob/main/Tutoriales/Teensy_MicroMod_setup.md)
+* [MicroMod ESP32](ESP32_MicroMod_setup.md)
+* [Arduino nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense/)
 
 ## Enviar datos a Edge Impulse - DataForwarder
 * Ejemplo usando MicroMod con Teensy
