@@ -10,7 +10,7 @@
 * [Arduino nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense/)
 
 ## Enviar datos a Edge Impulse - DataForwarder
-* Ejemplo usando MicroMod con Teensy
+* [Ejemplo usando MicroMod con Teensy](https://github.com/cgl-itm/AAEmbebido/blob/main/Tutoriales/DataForwarder_EdgeImpulse_example.md)
 
 # Raspberry y Computer Vision
 * [Configuracion para Despliegue de Raspberry](https://github.com/cgl-itm/AAEmbebido/blob/main/Tutoriales/Despliegue_DNN_Raspberry.md)
