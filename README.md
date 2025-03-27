@@ -33,7 +33,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 
 # Tutoriales
 
-## Audio Clasification
+## Audio Classification
 * [Keyword spotting - Edge Impulse](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/audio/responding-to-your-voice)
   
 ## TinyML
