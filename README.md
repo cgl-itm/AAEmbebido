@@ -32,6 +32,10 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 
 
 # Tutoriales
+
+## Audio Clasification
+* [Keyword spotting - Edge Impulse](https://docs.edgeimpulse.com/docs/tutorials/end-to-end-tutorials/audio/responding-to-your-voice)
+  
 ## TinyML
 * [Everything About TinyML – Basics, Courses, Projects & More! by Seeed Studio](https://www.seeedstudio.com/blog/2021/06/14/everything-about-tinyml-basics-courses-projects-more/)
 * [No-code Programming to Get Started with TinyML by Seeed](https://github.com/TinkerGen/No-code-Programming-to-Get-Started-with-TinyML)
