@@ -7,3 +7,6 @@ https://cdn.sparkfun.com/assets/a/9/c/9/1/DS-000069-ICS-43434-v1.2.pdf
 
 https://docs.arduino.cc/tutorials/nano-33-ble-sense-rev2/microphone-sensor/
 
+# Videos
+* [TinyML Speech Recognition on Arduino Nano 33 BLE Sense](https://www.youtube.com/watch?v=HWkVpm_ldeU)
+* [Create a Keyword Spotting System with Edge Impulse](https://www.youtube.com/watch?v=nkENds3GPNs)
