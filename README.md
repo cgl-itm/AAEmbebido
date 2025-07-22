@@ -22,9 +22,10 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 * Deprecated: [microMLGen](https://github.com/eloquentarduino/micromlgen) ([blog](https://medium.com/@thommaskevin/tinyml-random-forest-classifier-and-regressor-b351aa0980e8)), [SKLearn-Porter](https://github.com/nok/sklearn-porter), [Clara](https://github.com/asergiobranco/clara).
 
 # Edge Impulse
-[Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.<br>
-[Blog para configurar Edge Impulse CLI](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation) Herramienta que nos permite enviar datos desde un dispositivo local a la plataforma Edge Impulse. <br>
-[eloquent Edge Impulse](https://github.com/eloquentarduino/eloquent_edgeimpulse/tree/main)<br>
+* [Edge Impulse site](https://edgeimpulse.com/) Sitio oficial de Edge Impulse.
+* [Blog para configurar Edge Impulse CLI](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation) Herramienta que nos permite enviar datos desde un dispositivo local a la plataforma Edge Impulse.
+* [eloquent Edge Impulse](https://github.com/eloquentarduino/eloquent_edgeimpulse/tree/main)
+* [Notebook sobre caracteristicas espectrales](https://colab.research.google.com/github/Mjrovai/Arduino_Nicla_Vision/blob/main/Motion_Classification/Edge_Impulse_Spectral_Features_Block.ipynb)
 
 
 # TensorFlow Links
