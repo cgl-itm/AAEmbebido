@@ -40,12 +40,14 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 ## TinyML
 * [Everything About TinyML – Basics, Courses, Projects & More! by Seeed Studio](https://www.seeedstudio.com/blog/2021/06/14/everything-about-tinyml-basics-courses-projects-more/)
 * [No-code Programming to Get Started with TinyML by Seeed](https://github.com/TinkerGen/No-code-Programming-to-Get-Started-with-TinyML)
+* [Spectrino - TinyML Arduino IoT based touch free solutions](https://www.hackster.io/dhruvsheth_/spectrino-tinyml-arduino-iot-based-touch-free-solutions-d8d363)
   
 ## TensorFlow Lite
-* [TensorFlow Lite para microcontroladores](https://www.tensorflow.org/lite/microcontrollers) <br>
-* [Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) <br>
-* [End to End Audio classification - Recomendado](https://blog.tensorflow.org/2021/09/TinyML-Audio-for-everyone.html) <br>
+* [TensorFlow Lite para microcontroladores](https://www.tensorflow.org/lite/microcontrollers) 
+* [Arduino TensorFlow Lite - GitHub](https://github.com/arduino/ArduinoTensorFlowLiteTutorials/tree/master) 
+* [End to End Audio classification - Recomendado](https://blog.tensorflow.org/2021/09/TinyML-Audio-for-everyone.html) 
 * [SparkFun MicroMod with nRF52840 - Accelerometers -Recomendado](https://github.com/edgeimpulse/example-SparkFun-MicroMod-nRF52840)
+* [Cough detection with TinyML on arduino](https://www.hackster.io/edge-impulse/cough-detection-with-tinyml-on-arduino-417f37)
 
 ## Videos
 * [Intro to TinyML part 1](https://www.youtube.com/watch?v=BzzqYNYOcWc) and [Part 2](https://www.youtube.com/watch?v=dU01M61RW8s) <br>
