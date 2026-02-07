@@ -13,6 +13,12 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      08       |    Presentación proyecto 2 y [Anomaly Detection](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/06_AnomalyDetection.pdf) y [video](https://www.youtube.com/watch?v=TeXwCsYCqbg)     | Tutorial: [Enabling advanced anomaly detection for edge devices with Edge Impulse](https://www.youtube.com/watch?v=se9ZDBVKN1M) | 
 |      09       |   [Computer Vision](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/07_Imagenes_RedesConv.pdf.pdf)   | Tutorial: https://www.tensorflow.org/tutorials/images/cnn?hl=es-419  | 
 |      10       |    Presentación proyecto 3 |   | 
+|      11       |    Clasificación de imagenes 1 |   |
+|      12       |    Clasificación de imagenes 2 |   | 
+|      13       |     | Presentacion Proyecto 4  | 
+|      14       |    Detección de objetos 1 |   | 
+|      15       |    Detección de objetos 2 |   |
+|      16       |    Presentación proyecto 5 |   | 
 
 # Code converters
 * [Eloquent TinyML](https://github.com/eloquentarduino/EloquentTinyML) Libreria donde se pueden exportar modelos de TensforFlow a Microcontroladores ESP32 o Cortex M. Ejemplo Iris usando EveryWhereML y Eloquent TinyML - [Link](https://eloquentarduino.com/posts/tensorflow-lite-tinyml-esp32) y Notebook <a target="_blank" href="https://colab.research.google.com/gist/eloquentarduino/e678a2bd3b21b219283b3b36b9965f5d/train-tensorflow-model-for-arduino.ipynb">
