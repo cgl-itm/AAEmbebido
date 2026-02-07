@@ -70,6 +70,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 ## Recursos
 ### Repositorios
 * [Repositorio con poyectos y articulos](https://github.com/gigwegbe/tinyml-papers-and-projects)
+* [Seeed Studio - Wiki Documents](https://github.com/Seeed-Studio/wiki-documents)
 
 ### Cursos en linea
 * [Coursera - Introduction to Embedded Machine Learning by Shawn Hymel & Alexander Fred-Ojala](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
