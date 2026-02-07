@@ -13,11 +13,11 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      08       |    Presentación proyecto 2 y [Anomaly Detection](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/06_AnomalyDetection.pdf) y [video](https://www.youtube.com/watch?v=TeXwCsYCqbg)     | Tutorial: [Enabling advanced anomaly detection for edge devices with Edge Impulse](https://www.youtube.com/watch?v=se9ZDBVKN1M) | 
 |      09       |   [Computer Vision](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/07_Imagenes_RedesConv.pdf.pdf)   | Tutorial: https://www.tensorflow.org/tutorials/images/cnn?hl=es-419  | 
 |      10       |    Presentación proyecto 3 |   | 
-|      11       |    Clasificación de imagenes 1 |   |
-|      12       |    Clasificación de imagenes 2 |   | 
+|      11       |    Clasificación de imagenes, [Redes Convolucionales](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/07_Imagenes_RedesConv.pdf) |   |
+|      12       |    Clasificación de imagenes, [Raspbwrry PI](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/08_Raspberry_EngeImpulse.pdf) |   | 
 |      13       |      Presentacion Proyecto 4  | | 
-|      14       |    Detección de objetos 1 |   | 
-|      15       |    Detección de objetos 2 |   |
+|      14       |    [Detección de objetos](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/10_ObjDetection.pdf) |   | 
+|      15       |    [Tenicas de Compresion de Redes Neuronales](https://github.com/cgl-itm/AAEmbebido/blob/main/Slides/12_TecnicasDeCompresionDL.pdf) |   |
 |      16       |    Presentación proyecto 5 |   | 
 
 # Code converters
