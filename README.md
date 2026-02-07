@@ -15,7 +15,7 @@ Materiales y Recursos para la optativa 3 "Aprendizaje Automático Embebido" para
 |      10       |    Presentación proyecto 3 |   | 
 |      11       |    Clasificación de imagenes 1 |   |
 |      12       |    Clasificación de imagenes 2 |   | 
-|      13       |     | Presentacion Proyecto 4  | 
+|      13       |      Presentacion Proyecto 4  | | 
 |      14       |    Detección de objetos 1 |   | 
 |      15       |    Detección de objetos 2 |   |
 |      16       |    Presentación proyecto 5 |   | 
