@@ -6,7 +6,7 @@ Para esta configuración se empleara Arduino IDE como forma de programar el micr
 Seguir los pasos propuestos en la [documentación oficial](https://learn.sparkfun.com/tutorials/micromod-esp32-processor-board-hookup-guide/software-setup-and-programming). 
 1. Se debe instalar el controlador del driver USB (SiLabs CP2104 Driver) para acceder al microcontrolador.
 2. Se debe instalar en Arduino IDE la libreria para las tarjetas SparkFun.
-3. desde el Arduino IDE hacr click en File > Preferences. En "Additional boards manager URLs", copiar el siguiente link: 
+3. Desde el Arduino IDE hacer click en File > Preferences. En "Additional boards manager URLs", copiar el siguiente link: 
 ```
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 ```
